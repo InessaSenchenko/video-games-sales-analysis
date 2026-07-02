@@ -31,7 +31,7 @@ This project demonstrates an end-to-end data analytics workflow: - Data cleaning
 ### 📊 Dashboard 1. Загальний аналіз продажів
 
 Відображає ключові показники ринку:
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](dashboard1.png)
 * загальний обсяг світових продажів;
 * кількість ігор, платформ, жанрів і видавців;
 * найпопулярніші жанри;
