@@ -31,7 +31,7 @@ This project demonstrates an end-to-end data analytics workflow: - Data cleaning
 ### 📊 Dashboard 1. Загальний аналіз продажів
 
 Відображає ключові показники ринку:
-
+![Dashboard 1](images/dashboard1.png)
 * загальний обсяг світових продажів;
 * кількість ігор, платформ, жанрів і видавців;
 * найпопулярніші жанри;
@@ -41,7 +41,7 @@ This project demonstrates an end-to-end data analytics workflow: - Data cleaning
 ### 🌍 Dashboard 2. Регіональний аналіз
 
 Дозволяє дослідити особливості продажів у різних регіонах:
-
+![Dashboard 2](images/dashboard2.png)
 * Північна Америка;
 * Європа;
 * Японія;
@@ -52,7 +52,7 @@ This project demonstrates an end-to-end data analytics workflow: - Data cleaning
 ### 📈 Dashboard 3. Аналіз тенденцій
 
 Містить часовий аналіз ринку:
-
+![Dashboard 3](images/dashboard3.png)
 * динаміку світових продажів за роками;
 * зміну популярності платформ;
 * кількість випущених ігор за роками;
