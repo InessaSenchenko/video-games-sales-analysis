@@ -69,7 +69,7 @@ This project demonstrates an end-to-end data analytics workflow: - Data cleaning
 
 Переглянути інтерактивну Story у Tableau Public:
 
-🔗 **Додайте тут посилання на ваш Tableau Public**
+🔗 **(https://public.tableau.com/app/profile/inessa.senchenko/viz/videogemas/Story1?publish=yes)**
 
 ## Дані
 
@@ -77,6 +77,6 @@ This project demonstrates an end-to-end data analytics workflow: - Data cleaning
 
 ## Автор
 
-**Ваше ім'я**
+**Інесса Сенченко*
 
 Проєкт створено як частину портфоліо з аналізу даних.
